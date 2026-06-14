@@ -1,3 +1,5 @@
+#%pip install entsoe-py
+
 from entsoe import EntsoePandasClient
 import pandas as pd
 from datetime import datetime, timezone
