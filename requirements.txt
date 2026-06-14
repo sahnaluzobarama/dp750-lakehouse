@@ -1,1 +1,3 @@
-
+entsoe-py
+pandas
+python-dateutil
